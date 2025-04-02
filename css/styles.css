@@ -37,7 +37,9 @@ p, h1 {
 body {
     background: linear-gradient(180deg, #031727 25% , #534e4b 100%);;
 }
-
+p{
+    font-family: 'Mybedsteadfont', sans-serif;
+}
 
 
 @font-face {
