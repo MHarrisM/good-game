@@ -30,6 +30,7 @@
 .carousel{
     margin-right: 12px;
     margin-top: 10px;
+    align-content: center;
 }
 #feature-tech {
     color: #2b2b2b;
