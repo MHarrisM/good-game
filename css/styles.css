@@ -8,13 +8,14 @@
     
 }
 .grid-item{
-    background: linear-gradient(to right, #b0e2e3 0% , #534e4b 100%);;
+    background: linear-gradient(to right, rgba(0, 14, 25,1) 0%, rgba(88, 28, 122,0.5) 100%);
     display: flex;
     border-radius: 10px;
     padding: 10px;
     text-align: justify;
     text-justify: auto;
     margin: 10px;
+    
 }
 
 
@@ -24,21 +25,22 @@
   border-radius: 5px; /* Optional: rounded corners */
 }
 .display-4{
-    color: #b0e2e3;
+    color: #5c1b75;
     font-family: 'Mybedsteadfont', sans-serif;
 }  
 .carousel{
     margin-right: 12px;
     margin-top: 10px;
     align-content: center;
+    box-shadow: 0px 0px 10px 10px  #000000dd;
 }
 #feature-tech {
-    color: #2b2b2b;
+    color: #5c1b75;
     font-family: 'Mybedsteadfont', sans-serif;
 }
 
 p, h1 {
-    color: #2b2b2b;
+    color: #5c1b75;
 }
 body {
     background: linear-gradient(180deg, #031727 25% , #534e4b 100%);;
